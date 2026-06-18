@@ -6,4 +6,4 @@
 - eu gosto de viajar🚗
 - eu gosto de gastar💰
 
-!([]https://media.tenor.com/0FRLKoAnwTUAAAAj/cristiano-ronaldo.gif)
+![](https://media.tenor.com/0FRLKoAnwTUAAAAj/cristiano-ronaldo.gif)
