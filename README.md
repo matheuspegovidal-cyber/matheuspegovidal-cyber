@@ -6,4 +6,3 @@
 - eu gosto de viajar🚗
 - eu gosto de gastar💰
 
-![](https://media.tenor.com/MhpcPDesURYAAAAd/neymar-neymar-jr.gif)
